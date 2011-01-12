@@ -1,0 +1,7 @@
+9d5215b97d50e5b5e4b43bbc06de31ba *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+12c6672733c201167803eb78495c1446 *R/knn.R
+67c7c2b897a1e2384dc8d9d680b2cf4e *R/knn_singleton.R
+258011ddca2d004de89c93bf5bd43dae *man/knn-package.Rd
+1314dde5be1fae1922cc20a20bdbb700 *man/knn.Rd
+dcb91b6bd662c8c359769f7e24a114a8 *man/knn_singleton.Rd
